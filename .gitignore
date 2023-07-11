@@ -1,4 +1,5 @@
 tmux/.tmux/resurrect/tmux_resurrect_*.txt
+tmux/.tmux/resurrect/**
 .zsh_history
 
 # Byte-compiled / optimized / DLL files
